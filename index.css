@@ -1,0 +1,14 @@
+.text-platzi {
+    color: #2ae9b0 !important;
+  }
+  
+  #header img {
+    width: 80px;
+  }
+  
+  #main .carousel-inner img {
+    max-height: 90vh;
+    object-fit: cover;
+    filter: grayscale(50%);
+  }
+  
