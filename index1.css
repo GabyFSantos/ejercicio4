@@ -2,11 +2,11 @@
     color: #4f4ce2 !important;
   }
   .btn-platzi {
-    background-color: #3e9dc9;
-    color: white;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
   }
   .btn-platzi:hover {
-    background-color: #369fad;
+    background-color: #ffffff;
   }
   #header img {
     width: 80px;
@@ -28,7 +28,7 @@
     left: 0;
     right: 0;
     background-color: rgba(0, 0, 0, 0.5);
-    color: white;
+    color: rgb(255, 255, 255);
   }
   
   #carousel .overlay .container,
@@ -36,8 +36,8 @@
     height: 100%;
   }
   #place-time {
-    background-color: #ebd9d9;
-    color: rgb(34, 12, 36);
+    background-color: #498edd;
+    color: rgb(255, 255, 255);
   }
   
   #place-time img {
