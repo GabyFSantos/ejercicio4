@@ -1,12 +1,12 @@
 .text-platzi {
-    color: #97c93e !important;
+    color: #4f4ce2 !important;
   }
   .btn-platzi {
-    background-color: #97c93e;
+    background-color: #3e9dc9;
     color: white;
   }
   .btn-platzi:hover {
-    background-color: #82ad36;
+    background-color: #369fad;
   }
   #header img {
     width: 80px;
@@ -36,8 +36,8 @@
     height: 100%;
   }
   #place-time {
-    background-color: #ffffff;
-    color: rgb(199, 7, 216);
+    background-color: #ebd9d9;
+    color: rgb(34, 12, 36);
   }
   
   #place-time img {
